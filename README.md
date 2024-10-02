@@ -1,3 +1,7 @@
 # Démo Dépôt Git
 
-du texte de démonstration
+Le procédé de base pour synchroniser sur Git :
+
+- git add
+- git commit
+- git push
